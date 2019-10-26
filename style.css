@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: #393E46;
+}
+
+.header {
+  padding: 4% 0 4% 0;
+}
+
+h1 {
+  font-size: 10rem;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  color: #4ECCA3;
+}
+
+h4 {
+  font-size: 3rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+.row {
+  margin: 0 30%;
+  padding: 0.5% 0;
+}
+
+#footer {
+  padding: 9% 0 0 0;
+  color: #EEEEEE;
+  font-family: 'Indie Flower', cursive;
+}
