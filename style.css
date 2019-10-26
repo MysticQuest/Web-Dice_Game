@@ -30,3 +30,25 @@ h4 {
   color: #EEEEEE;
   font-family: 'Indie Flower', cursive;
 }
+
+/* Scalability */
+@media (max-width: 1348px) {
+  h1 {
+    font-size: 8rem;
+  }
+
+  .row {
+    margin: 0 10%;
+  }
+}
+
+/* Scalability */
+@media (max-width: 950px) {
+  h1 {
+    font-size: 5rem;
+  }
+
+  .row {
+    margin: 0 10%;
+  }
+}
